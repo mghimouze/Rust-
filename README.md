@@ -1,4 +1,4 @@
-There are [slides](https://docs.google.com/presentation/d/1kkTsCrMIVtxYef9T7SV-MWS-nQlnmTniAGaTl6L9Fe4/edit?usp=sharing) that go with this repo, as well as a [companion website](https://rtfeldman-rust-workshop.netlify.app/).
+
 
 Getting Started
 ===============
@@ -17,11 +17,6 @@ cargo --version
 
 It should print a version number of 1.51 or higher.
 
-Finally, clone this repository by running this at the terminal:
-
-```shell
-git clone https://github.com/rtfeldman/intro-to-rust
-cd intro-to-rust
-```
+Finally, clone this repository 
 
 You're all set!
